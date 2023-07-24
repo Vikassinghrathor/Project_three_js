@@ -7,4 +7,4 @@ Make your code reusable and scalable using Higher Order Components (HOCs) and ot
 Add custom color and file support.
 Generate and use images through DALLE AI
 Download the resulting t-shirt model image
-Ensure responsiveness across all devices and improve your site's performance
+Ensure responsiveness across all devices and improve your site's performance.
